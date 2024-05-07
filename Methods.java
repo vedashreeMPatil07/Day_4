@@ -1,4 +1,4 @@
-public class methods {
+public class Methods {
  
     void mul(double num, int num2)
     {
@@ -13,9 +13,9 @@ public class methods {
 
 }
     public static void main (string args[]) {
-        methods x=new methods();
+        Methods x=new Methods();
         x.mul(10.5, 0);
-        methods x= new methods();
+        Methods x= new Methods();
         x1.mul(10.5f,)
     }
 
