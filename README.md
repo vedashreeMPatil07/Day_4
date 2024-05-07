@@ -1,2 +1,6 @@
 # Day_4
-program on Function , Interfaces and ternary operator
+programs on 
+Methods
+ Interfaces 
+ Nested Ternary operator
+Encapsulation
